@@ -1,4 +1,4 @@
-package pruebapc1;
+package pruebapc2;
 import java.util.Scanner;
 
 public class Menu {
@@ -9,13 +9,14 @@ public class Menu {
     void MenuA() {
         int op=0;
         Scanner leer=new Scanner(System.in);
-        System.out.println("***Menu de opciones***"); 
+        System.out.println("***Menú de opciones**"); 
         System.out.println("1.Venta Nueva"); 
         System.out.println("2.Consultar Inventario");
-        System.out.println("3.Cambiar clave de acceso");
+        System.out.println("3.Cambiar contraseña");
         System.out.println("4.Salir del sistema");
-        System.out.println("Digite la opcion");
+        System.out.println("Digite la opción");
         op=leer.nextInt();
+        System.out.println(new String(new char[1]).replace("\0", "\r\n"));
         
             switch (op){
             case 1:
@@ -50,12 +51,13 @@ public class Menu {
     void MenuV() {
         int op=0;
         Scanner leer=new Scanner(System.in);
-        System.out.println("***Menu de opciones***"); 
+        System.out.println("***Menú de opciones**"); 
         System.out.println("1.Venta Nueva"); 
         System.out.println("2.Consultar Inventario");
         System.out.println("3.Salir del sistema");
-        System.out.println("Digite la opcion");
+        System.out.println("Digite la opción");
         op=leer.nextInt();
+        System.out.println(new String(new char[1]).replace("\0", "\r\n"));
         
             switch (op){
             case 1:
@@ -87,11 +89,12 @@ public class Menu {
     void MenuI() {
         int op=0;
         Scanner leer=new Scanner(System.in);
-        System.out.println("***Menu de opciones***"); 
+        System.out.println("***Menú de opciones**"); 
         System.out.println("1.Consultar Catalogo"); 
         System.out.println("2.Salir del sistema");
-        System.out.println("Digite la opcionn");
+        System.out.println("Digite la opción");
         op=leer.nextInt();
+        System.out.println(new String(new char[1]).replace("\0", "\r\n"));
         
             switch (op){
             case 1:
@@ -111,7 +114,7 @@ public class Menu {
                 
                 break;
                 default:
-                    System.out.println("Opcion no valida");
+                    System.out.println("Opción no valida");
                 break;
         }
         
