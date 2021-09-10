@@ -1,0 +1,196 @@
+-------------
+Administrador
+Hora:0:49:59
+Fecha:9-9-2021
+-------------Salida del Administrador
+
+Hora:0:49:59
+Fecha:9-9-2021
+-------------
+Administrador
+Hora:0:52:21
+Fecha:9-9-2021
+-------------Salida del Administrador
+
+Hora:0:52:21
+Fecha:9-9-2021
+-------------Entrada del Administrador
+Hora: 
+1:1:35Fecha: 
+9-9-2021
+-------------Salida del Administrador
+
+Hora:1:1:35
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 1:9:58
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:1:10:5
+Fecha:9-9-2021
+-------------Entrada del Vendedor
+Hora: 
+1:11:48Fecha: 
+9-9-2021
+-------------Entrada del Vendedor
+Hora: 
+1:13:29Fecha: 
+9-9-2021
+-------------
+Salida del Vendedor
+Hora:1:14:5
+Fecha:9-9-2021
+-------------Entrada del Invitado
+Hora: 
+1:52:54Fecha: 
+9-9-2021
+-------------
+Salida del Invitado
+Hora:1:53:10
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 2:35:5
+Fecha: 9-9-2021
+-------------
+Entrada del Administrador
+Hora: 11:34:46
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:11:35:1
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 11:35:1
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:11:35:9
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 11:35:9
+Fecha: 9-9-2021
+-------------
+Entrada del Administrador
+Hora: 11:36:57
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:11:37:1
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 12:4:41
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:12:4:48
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 12:4:48
+Fecha: 9-9-2021
+-------------
+Entrada del Administrador
+Hora: 12:34:26
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:12:34:33
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 12:34:33
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:17:39:35
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 17:39:35
+Fecha: 9-9-2021
+-------------
+Entrada del Administrador
+Hora: 17:42:8
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:17:45:14
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 17:45:14
+Fecha: 9-9-2021
+-------------
+Entrada del Administrador
+Hora: 17:48:18
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:17:53:6
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 18:59:0
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:18:59:13
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 19:0:59
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:19:1:1
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 19:14:3
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:19:14:8
+Fecha:9-9-2021
+-------------Entrada del Vendedor
+Hora: 
+19:15:46Fecha: 
+9-9-2021
+-------------
+Salida del Vendedor
+Hora:19:15:49
+Fecha:9-9-2021
+-------------
+Entrada del Administrador
+Hora: 19:50:19
+Fecha: 9-9-2021
+-------------
+Entrada del Administrador
+Hora: 19:52:36
+Fecha: 9-9-2021
+-------------
+Entrada del Administrador
+Hora: 19:56:44
+Fecha: 9-9-2021
+-------------
+Entrada del Administrador
+Hora: 20:7:34
+Fecha: 9-9-2021
+-------------
+Entrada del Administrador
+Hora: 20:8:19
+Fecha: 9-9-2021
+-------------
+Entrada del Administrador
+Hora: 20:9:21
+Fecha: 9-9-2021
+-------------Salida del Administrador
+
+Hora:20:9:28
+Fecha:9-9-2021

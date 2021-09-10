@@ -3,12 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/José/Desktop/PruebaPC1/src/pruebapc1/Menu.java</file>
-            <file>file:/C:/Users/José/Desktop/PruebaPC1/src/pruebapc1/Login.java</file>
-            <file>file:/C:/Users/José/Desktop/PruebaPC1/src/Archivos.java</file>
-            <file>file:/C:/Users/José/Desktop/PruebaPC1/src/pruebapc1/Main.java</file>
-            <file>file:/C:/Users/José/Desktop/PruebaPC1/src/pruebapc1/Inventarios.java</file>
-            <file>file:/C:/Users/José/Desktop/PruebaPC1/src/Bitacora.java</file>
+            <file>file:/C:/Users/José/Desktop/proyecto/pruebapc1/src/pruebapc1/Inventarios.java</file>
+            <file>file:/C:/Users/José/Desktop/proyecto/pruebapc1/src/pruebapc1/Login.java</file>
+            <file>file:/C:/Users/José/Desktop/proyecto/pruebapc1/src/pruebapc1/LeeFichero.java</file>
+            <file>file:/C:/Users/José/Desktop/proyecto/pruebapc1/src/pruebapc1/Main.java</file>
+            <file>file:/C:/Users/José/Desktop/proyecto/pruebapc1/src/pruebapc1/Menu.java</file>
+            <file>file:/C:/Users/José/Desktop/proyecto/pruebapc1/src/pruebapc1/Archivos.java</file>
+            <file>file:/C:/Users/José/Desktop/proyecto/pruebapc1/src/pruebapc1/Bitacora.java</file>
+            <file>file:/C:/Users/José/Desktop/proyecto/pruebapc1/src/pruebapc1/EscribirFichero.java</file>
         </group>
     </open-files>
 </project-private>
